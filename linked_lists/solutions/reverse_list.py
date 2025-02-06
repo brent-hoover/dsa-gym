@@ -1,4 +1,4 @@
-from node import Node
+from ..node import Node
 
 def reverse_list(head: Node):
     current = head

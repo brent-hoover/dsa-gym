@@ -1,5 +1,5 @@
 import pytest
-from node import Node
+from ..node import Node
 from reverse_list import reverse_list
 
 
