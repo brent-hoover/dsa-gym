@@ -1,3 +1,7 @@
+from linked_lists.node import Node
 
-def merge_sorted_lists(list1, list2):
+def reverse_list(head: Node):
+    pass
+
+def merge_sorted_lists(l1: Node, l2: Node):
     pass

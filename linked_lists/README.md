@@ -22,8 +22,10 @@
 - Understand both iterative and recursive approaches
 
 ## Progress Tracking
-| Problem | First Done | 2 Day Review | Week Review | Notes |
-|---------|------------|--------------|-------------|--------|
-| Reverse |            |              |             |        |
-| Merge   |            |              |             |        |
-| Cycle   |            |              |             |        |
+| Problem           | First Done | 2 Day Review | Week Review | Notes                                                                                                  |
+|-------------------|------------|--------------|-------------|--------------------------------------------------------------------------------------------------------|
+| Reverse           | Feb/7/2025 |              |             | need temp pointer to avoid losing current. Also ok to set current.next to None when its the first node |
+| Merge             |            |              |             |                                                                                                        |
+| Cycle             |            |              |             |                                                                                                        |
+| Is Palindrome     |            |              |             |                                                                                                        |
+| Remove Duplicates |            |              |             |                                                                                                        |

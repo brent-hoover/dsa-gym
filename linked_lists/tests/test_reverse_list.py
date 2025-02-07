@@ -1,6 +1,6 @@
 import pytest
-from ..node import Node
-from reverse_list import reverse_list
+from linked_lists.node import Node
+from linked_lists.practice import reverse_list
 
 
 def test_reverse_list_basic():

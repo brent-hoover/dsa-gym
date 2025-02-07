@@ -1,6 +1,6 @@
 import pytest
-from ..node import Node
-from ..practice import merge_sorted_lists
+from linked_lists.node import Node
+from linked_lists.practice import merge_sorted_lists
 
 
 def test_merge_sorted_lists():
